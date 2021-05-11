@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<clientes>
+  <cliente>
+    <idcliente>1</idcliente>
+    <nombres>Jezer</nombres>
+    <apellidos>Razuri</apellidos>
+    <dni>11223344</dni>
+    <direccion>Av. Los Alamos</direccion>
+  </cliente>
+</clientes>
